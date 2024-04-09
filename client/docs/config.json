@@ -2,7 +2,7 @@
 //check json community
 
 {
-  "swagger": "2.0",
+  "swagger": ,
   "info": {
     "title": "Evmos Chain - gRPC Gateway docs",
     "description": "A REST interface for state queries and transactions",
